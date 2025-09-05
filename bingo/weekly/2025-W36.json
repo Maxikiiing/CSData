@@ -5,22 +5,22 @@
   "cells": [
     { "kind": "nation", "nation": "France" },
     { "kind": "role", "role": "Sniper" },
-    { "kind": "min", "stat": "kills", "value": 12000 },
-    { "kind": "kdMin", "value": 1.15 },
+    { "kind": "min", "stat": "kills", "value": 30000 },
+    { "kind": "kdMin", "value": 1.2 },
 
-    { "kind": "range", "stat": "mapsPlayed", "min": 600, "max": 1200 },
+    { "kind": "min", "stat": "mapsPlayed", "value": 1000},
     { "kind": "teamHistory", "team": "NAVI" },
-    { "kind": "ageRange", "min": 20, "max": 26 },
+    { "kind": "min", "stat": "age", "value": 32 },
     { "kind": "rolesAllOf", "roles": ["IGL","Sniper"] },
 
-    { "kind": "max", "stat": "deaths", "value": 8000 },
-    { "kind": "min", "stat": "sniper", "value": 1500 },
-    { "kind": "range", "stat": "rifle", "min": 2500, "max": 7000 },
-    { "kind": "kdRange", "min": 1.00, "max": 1.25 },
+    { "kind": "max", "stat": "deaths", "value": 10000 },
+    { "kind": "min", "stat": "sniper", "value": 15000 },
+    { "kind": "min", "stat": "rifle", "value": 25000},
+    { "kind": "min", "grenade": , "value":500 },
 
     { "kind": "nation", "nation": "Brazil" },
     { "kind": "teamHistory", "team": "G2" },
-    { "kind": "min", "stat": "aces", "value": 40 },
-    { "kind": "max", "stat": "eDPI", "value": 900 }
+    { "kind": "min", "stat": "aces", "value": 45 },
+    { "kind": "max", "stat": "eDPI", "value": 700 }
   ]
 }
