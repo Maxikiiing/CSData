@@ -16,7 +16,7 @@
     { "kind": "max", "stat": "deaths", "value": 10000 },
     { "kind": "min", "stat": "sniper", "value": 15000 },
     { "kind": "min", "stat": "rifle", "value": 25000},
-    { "kind": "min", "grenade": , "value":500 },
+    { "kind": "min", "stat": "grenade" , "value":500 },
 
     { "kind": "nation", "nation": "Brazil" },
     { "kind": "teamHistory", "team": "G2" },
