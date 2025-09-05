@@ -6,7 +6,7 @@
     { "kind": "nation", "nation": "United Kingdom" },
     { "kind": "min", "stat": "mapsPlayed", "value": 900 },
     { "kind": "max", "stat": "deaths", "value": 10000 },
-    { "kind": "min", "stat":"kd", "value": 1.15 },
+    { "kind": "min", "stat":"kills", "value": 30000 },
 
     { "kind": "role", "role": "IGL" },
     { "kind": "teamHistory", "team": "Astralis" },
