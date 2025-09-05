@@ -1,0 +1,26 @@
+{
+  "title": "Monthly Challenge – September 2025",
+  "rows": 4,
+  "cols": 4,
+  "cells": [
+    { "kind": "nation", "nation": "United Kingdom" },
+    { "kind": "min", "stat": "mapsPlayed", "value": 900 },
+    { "kind": "max", "stat": "deaths", "value": 7000 },
+    { "kind": "kdRange", "min": 1.05, "max": 1.30 },
+
+    { "kind": "role", "role": "IGL" },
+    { "kind": "teamHistory", "team": "Astralis" },
+    { "kind": "ageRange", "min": 21, "max": 27 },
+    { "kind": "min", "stat": "rifle", "value": 4000 },
+
+    { "kind": "nation", "nation": "USA" },
+    { "kind": "kdMin", "value": 1.20 },
+    { "kind": "range", "stat": "sniper", "min": 1000, "max": 3500 },
+    { "kind": "rolesAllOf", "roles": ["Rifler","Sniper"] },
+
+    { "kind": "min", "stat": "aces", "value": 60 },
+    { "kind": "teamHistory", "team": "FaZe" },
+    { "kind": "max", "stat": "age", "value": 25 },
+    { "kind": "nation", "nation": "Denmark" }
+  ]
+}
