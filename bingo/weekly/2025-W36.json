@@ -1,0 +1,26 @@
+{
+  "title": "Weekly Challenge – 2025 W36",
+  "rows": 4,
+  "cols": 4,
+  "cells": [
+    { "kind": "nation", "nation": "France" },
+    { "kind": "role", "role": "Sniper" },
+    { "kind": "min", "stat": "kills", "value": 12000 },
+    { "kind": "kdMin", "value": 1.15 },
+
+    { "kind": "range", "stat": "mapsPlayed", "min": 600, "max": 1200 },
+    { "kind": "teamHistory", "team": "NAVI" },
+    { "kind": "ageRange", "min": 20, "max": 26 },
+    { "kind": "rolesAllOf", "roles": ["IGL","Sniper"] },
+
+    { "kind": "max", "stat": "deaths", "value": 8000 },
+    { "kind": "min", "stat": "sniper", "value": 1500 },
+    { "kind": "range", "stat": "rifle", "min": 2500, "max": 7000 },
+    { "kind": "kdRange", "min": 1.00, "max": 1.25 },
+
+    { "kind": "nation", "nation": "Brazil" },
+    { "kind": "teamHistory", "team": "G2" },
+    { "kind": "min", "stat": "aces", "value": 40 },
+    { "kind": "max", "stat": "eDPI", "value": 900 }
+  ]
+}
