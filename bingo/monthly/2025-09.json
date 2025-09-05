@@ -13,6 +13,9 @@
     { "kind": "min", "stat": "age", "value": 30 },
     { "kind": "min", "stat": "rifle", "value": 15000 },
 
-    { "kind": "nation", "nation": "Ukraine" }
+    { "kind": "nation", "nation": "Ukraine" },
+    { "kind": "min", "stat":"grenade", "value": 400},
+    { "kind": "teamHistory", "team": "Vitality"},
+    { "kind": "min", "stat":"aces", "value":40}
   ]
 }
