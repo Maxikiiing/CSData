@@ -1,6 +1,6 @@
 {
   "title": "Monthly Challenge – September 2025",
-  "rows": 3,
+  "rows": 4,
   "cols": 4,
   "cells": [
     { "kind": "nation", "nation": "United Kingdom" },
@@ -13,6 +13,11 @@
     { "kind": "min", "stat": "age", "value": 30 },
     { "kind": "min", "stat": "rifle", "value": 15000 },
 
+    { "kind": "nation", "nation": "Ukraine" },
+    { "kind": "min", "stat":"grenade", "value": 400},
+    { "kind": "teamHistory", "team": "Vitality"},
+    { "kind": "min", "stat":"aces", "value":40},
+    
     { "kind": "nation", "nation": "Ukraine" },
     { "kind": "min", "stat":"grenade", "value": 400},
     { "kind": "teamHistory", "team": "Vitality"},
